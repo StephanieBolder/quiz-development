@@ -6049,7 +6049,7 @@ video {
 }
 
 .font-display {
-  font-family: Roboto, sans-serif;
+  font-family: , sans-serif;
 }
 
 .font-body {
@@ -6058,6 +6058,10 @@ video {
 
 .font-titel {
   font-family: Dancing Script, serif;
+}
+
+.font-vraag {
+  font-family: Century Gothic, sans-serif;
 }
 
 .font-hairline {
@@ -19799,7 +19803,7 @@ video {
   }
 
   .sm\:font-display {
-    font-family: Roboto, sans-serif;
+    font-family: , sans-serif;
   }
 
   .sm\:font-body {
@@ -19808,6 +19812,10 @@ video {
 
   .sm\:font-titel {
     font-family: Dancing Script, serif;
+  }
+
+  .sm\:font-vraag {
+    font-family: Century Gothic, sans-serif;
   }
 
   .sm\:font-hairline {
@@ -33550,7 +33558,7 @@ video {
   }
 
   .md\:font-display {
-    font-family: Roboto, sans-serif;
+    font-family: , sans-serif;
   }
 
   .md\:font-body {
@@ -33559,6 +33567,10 @@ video {
 
   .md\:font-titel {
     font-family: Dancing Script, serif;
+  }
+
+  .md\:font-vraag {
+    font-family: Century Gothic, sans-serif;
   }
 
   .md\:font-hairline {
@@ -47301,7 +47313,7 @@ video {
   }
 
   .lg\:font-display {
-    font-family: Roboto, sans-serif;
+    font-family: , sans-serif;
   }
 
   .lg\:font-body {
@@ -47310,6 +47322,10 @@ video {
 
   .lg\:font-titel {
     font-family: Dancing Script, serif;
+  }
+
+  .lg\:font-vraag {
+    font-family: Century Gothic, sans-serif;
   }
 
   .lg\:font-hairline {
@@ -61052,7 +61068,7 @@ video {
   }
 
   .xl\:font-display {
-    font-family: Roboto, sans-serif;
+    font-family: , sans-serif;
   }
 
   .xl\:font-body {
@@ -61061,6 +61077,10 @@ video {
 
   .xl\:font-titel {
     font-family: Dancing Script, serif;
+  }
+
+  .xl\:font-vraag {
+    font-family: Century Gothic, sans-serif;
   }
 
   .xl\:font-hairline {
