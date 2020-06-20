@@ -1,4 +1,15 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React quiz project
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This project let's you answer questions about the entertainment industry.
+
+## Status
+
+`Working on the finishing touches`
+
+## Authors
+
+- Stephanie Bolder
+  Fontys FHICT student
 
 ## Available Scripts
 
@@ -66,3 +77,17 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Build with:
+
+- HTML
+- Javascript
+- Tailwind CSS
+- React
+
+## Programs used:
+
+- Visual Studio Code
+- Git CMD
+- Github
+- Google chrome
